@@ -1,0 +1,353 @@
+{
+  "name": "SG Theme v1.0",
+  "icons": [],
+  "dataColors": 
+  [
+    "#002d54",
+    "#2b9c93",
+    "#6a2063",
+    "#e5682a",
+    "#0b4c0b",
+    "#5d9f3c",
+    "#592c20",
+    "#ca72a2",
+    "#0065bd",
+    "#55a8f2",
+    "#949494"
+  ],
+  "good": "#1a7032",
+  "neutral": "#000000",
+  "bad": "#d32205",
+
+  "maximum": "#002d54",
+  "center": "#0065bd",
+  "minimum": "#55a8f2",
+
+  "tableAccent": "#b3b3b3",
+  "foreground": "#1a1a1a",
+  "foregroundNeutralSecondary": "#5e5e5e",
+  "backgroundLight": "#ebebeb",
+  "foregroundNeutralTertiary": "#b3b3b3",
+  "background": "#ffffff",
+  "backgroundNeutral": "#f8f8f8",
+
+  "textClasses": 
+  {
+    "callout": 
+    {
+      "fontFace": "Roboto",
+      "color": "#1a1a1a",
+      "fontSize": 16,
+      "fontWeight": "400"
+    },
+    "title": 
+    {
+      "fontFace": "Roboto",
+      "color": "#1a1a1a",
+      "fontSize": 16,
+      "fontWeight": "400"
+    },
+    "header": 
+    {
+      "fontFace": "Roboto",
+      "color": "#1a1a1a",
+      "fontSize": 19,
+      "fontWeight": "700"
+    },
+    "label": 
+    {
+      "fontFace": "Roboto",
+      "color": "#1a1a1a",
+      "fontSize": 16,
+      "fontWeight": "400"
+    },
+    "smallLightLabel": 
+    {
+      "fontFace": "Roboto",
+      "color": "#000000",
+      "fontSize": 14,
+      "fontWeight": "400"
+    },
+    "largeLightLabel": 
+    {
+      "fontFace": "Roboto",
+      "color": "#5e5e5e",
+      "fontSize": 14,
+      "fontWeight": "400"
+    },
+    "boldLabel": 
+    {
+      "fontFace": "Roboto",
+      "color": "#1a1a1a",
+      "fontSize": 16,
+      "fontWeight": "700"
+    },
+    "lightLabel": 
+    {
+      "fontFace": "Roboto",
+      "color": "#1a1a1a",
+      "fontSize": 16,
+      "fontWeight": "400"
+    },
+    "smallLabel": 
+    {
+      "fontFace": "Roboto",
+      "color": "#1a1a1a",
+      "fontSize": 14,
+      "fontWeight": "400"
+    },
+    "largeLabel": 
+    {
+      "fontFace": "Roboto",
+      "color": "#1a1a1a",
+      "fontSize": 16,
+      "fontWeight": "400"
+    },
+    "semiboldLabel": 
+    {
+      "fontFace": "Roboto",
+      "color": "#1a1a1a",
+      "fontSize": 16,
+      "fontWeight": "400"
+    },
+    "largeTitle": 
+    {
+      "fontFace": "Roboto",
+      "color": "#1a1a1a",
+      "fontSize": 19,
+      "fontWeight": "400"
+    }
+  },
+  "visualStyles": 
+  {
+    "*": 
+    {
+      "*": 
+      {
+        "background": 
+        [
+          {
+            "color": {"solid": {"color": "#FFFFFF"}},
+            "transparency": 0
+          }
+        ],
+        "visualHeader": 
+        [
+          {
+            "background": {"solid": {"color": "#FFFFFF"}},
+            "foreground": {"solid": {"color": "#1a1a1a"}},
+            "transparency": 0,
+            "border": {"solid": {"color": "#FFFFFF"}}
+          }
+        ],
+        "visualTooltip": 
+        [
+          {
+            "titleFontColor": {"solid": {"color": "#1a1a1a"}},
+            "valueFontColor": {"solid": {"color": "#1a1a1a"}},
+            "actionFontColor": {"solid": {"color": "#1a1a1a"}},
+            "background": {"solid": {"color": "#FFFFFF"}}
+          }
+        ],
+        "outspace": 
+        [
+          {
+            "color": {"solid": {"color": "#FFFFFF"}},
+            "transparency": 0
+          }
+        ],
+        "title": 
+        [
+          {
+            "show": false,
+            "text": "Insert your title here",
+	    "heading": "Normal",
+            "titleWrap": true,
+	    "bold": false,
+            "fontColor": {"solid": {"color": "#1a1a1a"}},
+            "background": {"solid": {"color": "#ffffff"}},
+            "alignment": "left",
+            "fontSize": 30,
+            "fontFace": "Roboto",
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "subTitle": 
+        [
+          {
+            "show": false,
+            "text": "Insert your subtitle here",
+            "heading": "Heading2",
+            "fontFace": "Roboto",
+            "fontSize": 22,
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "fontColor": {"solid": {"color": "#1a1a1a"}},
+            "alignment": "left",
+            "titleWrap": true
+          }
+        ],
+        "outspacePane": 
+        [
+          {
+            "backgroundColor": {"solid": {"color": "#FFFFFF"}},
+            "transparency": 0,
+            "foregroundColor": {"solid": {"color": "#1a1a1a"}},
+            "titleSize": 12,
+            "headerSize": 12,
+            "fontFamily": "Roboto",
+            "border": true,
+            "borderColor": {"solid": {"color": "#b3b3b3"}},
+            "width": 200,
+            "checkboxAndApplyColor": {"solid": {"color": "#1a1a1a"}},
+            "searchTextSize": 12,
+            "inputBoxColor": {"solid": {"color": "#ffffff"}}
+          }
+        ],
+        "filterCard": 
+        [
+          {
+            "$id": "Available",
+            "foregroundColor": {"solid": {"color": "#1a1a1a"}},
+            "backgroundColor": {"solid": {"color": "#FFFFFF"}},
+            "textSize": 12,
+            "fontFamily": "Roboto",
+            "border": true,
+            "borderColor": {"solid": {"color": "#b3b3b3"}},
+            "inputBoxColor": {"solid": {"color": "#FFFFFF"}}
+          }
+        ]
+      }
+    },
+  "actionButton": 
+  {  
+    "*": 
+    {
+     "text": 
+       [
+          {
+            "$id": "default",
+            "show": true,
+            "text": "Default button text",
+            "fontColor": {"solid": {"color": "#ffffff"}},
+            "fontSize": 14,
+            "fontFamily": "Roboto",
+            "bold": true,
+            "italic": false,
+            "underline": false,
+            "verticalAlignment": "middle",
+            "horizontalAlignment": "center"
+          },
+          {
+            "$id": "hover",
+            "text": "On Hover button text",
+            "fontColor": {"solid": {"color": "#ffffff"}},
+            "fontSize": 14,
+            "fontFamily": "Roboto",
+            "bold": true,
+            "italic": false,
+            "underline": false,
+            "verticalAlignment": "middle",
+            "horizontalAlignment": "center"
+          },
+          {
+            "$id": "selected",
+            "text": "On Press button text",
+            "fontColor": {"solid": {"color": "#1a1a1a"}},
+            "fontSize": 14,
+            "fontFamily": "Roboto",
+            "bold": true,
+            "italic": false,
+            "underline": false,
+            "verticalAlignment": "middle",
+            "horizontalAlignment": "center"
+          },
+          {
+            "$id": "disabled",
+            "text": "Disabled button text",
+            "fontColor": {"solid": {"color": "#1a1a1a"}},
+            "fontSize": 14,
+            "fontFamily": "Roboto",
+            "verticalAlignment": "middle",
+            "horizontalAlignment": "center"
+          },
+          {
+            "show": true
+          }
+        ],
+	"outline": 
+        [
+	  {
+	    "show": false
+	  }
+	],
+	"fill": 
+        [
+          {
+            "$id": "default",
+            "fillColor": {"solid": {"color": "#0065bd"}},
+	    "transparency": 0
+          },
+          {
+            "$id": "hover",
+            "fillColor": {"solid": {"color": "#00437e"}},
+	    "transparency": 0
+          },
+          {
+            "$id": "selected",
+            "fillColor": {"solid": {"color": "#fdd522"}},
+	    "transparency": 0
+          },
+          {
+            "$id": "disabled",
+            "fillColor": {"solid": {"color": "#b3b3b3"}},
+	    "transparency": 0
+          },
+          {
+            "show": true
+          }
+        ]
+      }
+    },
+  "tableEx": 
+  {
+      "*": 
+      {
+	"grid": 
+        [
+	  {
+            "outlineColor": {"solid": {"color": "#b3b3b3"}},
+            "outlineWeight": 1,
+            "outlineStyle": 15
+          }
+	],
+        "columnHeaders": 
+        [
+          {
+            "fontColor": {"solid": {"color": "#1a1a1a"}},
+            "backColor": {"solid": {"color": "#ebebeb"}},
+            "fontFamily": "Roboto",
+            "bold": true,
+            "italic": false,
+            "underline": false,
+            "fontSize": 16
+          }
+        ],
+	"values": 
+        [
+          {
+            "fontColorPrimary": {"solid": {"color": "#1a1a1a"}},
+            "backColorPrimary": {"solid": {"color": "#FFFFFF"}},
+            "fontColorSecondary": {"solid": {"color": "#1a1a1a"}},
+            "backColorSecondary": {"solid": {"color": "#f8f8f8"}},
+            "fontFamily": "Roboto",
+            "fontSize": 16
+          }
+        ]
+      }
+    }
+  }
+}
