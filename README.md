@@ -189,6 +189,21 @@ SG Theme v1.1.json
 
 ---
 
+## Relevant Links
+[See Microsoft’s full JSON theme schema here](https://github.com/microsoft/powerbi-desktop-samples/tree/main/Report%20Theme%20JSON%20Schema)
+
+[Colour - Design System](https://designsystem.gov.scot/styles/colour)
+
+[Use report themes in Power BI](https://learn.microsoft.com/en-gb/power-bi/create-reports/desktop-report-themes)
+
+[Data visualisation: colour palettes - Design System](https://designsystem.gov.scot/guidance/charts/data-visualisation-colour-palettes)
+
+[Roboto - Google Fonts](https://fonts.google.com/specimen/Roboto)
+
+[Button - Design System](https://designsystem.gov.scot/components/button)
+
+---
+
 ## Skills Demonstrated
 
 - Power BI
